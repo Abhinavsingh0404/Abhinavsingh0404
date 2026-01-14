@@ -72,16 +72,16 @@ I am always eager to **learn, build, and collaborate** on impactful data project
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinavsingh0404&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinavsingh0404&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavsingh0404&show_icons=true&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavsingh0404&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavsingh0404" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavsingh0404&theme=tokyonight" alt="GitHub Streak" />
 </p>
