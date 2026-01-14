@@ -2,11 +2,11 @@
 <h3 align="center">A Passionate Data Science Student from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinavsingh0404&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Abhinavsingh0404&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinavsingh0404&theme=onedark&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinavsingh0404&theme=onedark&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
