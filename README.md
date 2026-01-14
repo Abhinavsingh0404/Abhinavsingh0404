@@ -9,6 +9,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Abhinavsingh0404&theme=onedark&margin-w=10" alt="GitHub Trophies" />
 </p>
 
+<hr>
+
+
 ---
 
 ### 👨‍💻 About Me
