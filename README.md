@@ -25,14 +25,20 @@ I am always eager to **learn, build, and collaborate** on impactful data project
 
 ### 🔭 Current Work
 🤑**Flipkart Product Recommendation System** (Market–Customer Preference Analysis using Data Analytics and Machine Learning)
+
 👨‍💻Exploring **Business Intelligence tools** for data-driven decision making
+
 👨‍💻Strengthening **Machine Learning fundamentals** and real-world applications
 
 ### 👨‍💻 Previous Work
 **💵💸Loan Prediction using Machine Learning** (Financial data analysis, feature engineering, and predictive modeling for loan approval decisions)
+
 **👽Space Debris Decay Prediction**(Data analysis and ML model to estimate orbital debris re-entry time using real satellite datasets)
+
 **🌠Asteroid Mining Research Project**(Data analysis & ML approach to evaluate feasibility of space resource extraction)
+
 **🩼Live Life NGO** – Strategy & Business Analysis(SWOT, PESTLE, and strategic planning for rural development initiative)
+
 **➗Sudoku Solver using Backtracking (C++)**(Algorithm optimization and constraint-based problem solving)
 
 ### 🌱 Currently Learning
