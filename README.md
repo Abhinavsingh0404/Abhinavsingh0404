@@ -14,6 +14,7 @@ I am a **Data Science student** with a strong interest in transforming data into
 I enjoy working with **Machine Learning models, data visualization tools, and analytical techniques** to solve real-world problems.
 
 Currently, I am exploring:
+- 🤑 **Flipkart Product Recommendation System** as a data analytics project
 - 🚀 **Asteroid Mining** as a data-driven research project  
 - 📊 Business Intelligence tools for decision-making  
 - 🤖 Machine Learning fundamentals and applications  
