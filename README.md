@@ -24,6 +24,7 @@ I am always eager to **learn, build, and collaborate** on impactful data project
 ---
 
 ### 🔭 Current Work
+- Working on **Flipkart Product Recommendation System (Market-customer preference Analysis)**
 - Working on **Asteroid Mining (Data Analysis & ML perspective)**
 
 ### 🌱 Currently Learning
