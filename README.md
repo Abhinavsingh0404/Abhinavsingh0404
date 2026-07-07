@@ -30,7 +30,6 @@ I am always eager to **learn, build, and collaborate** on impactful data project
 
 - 👨‍💻Strengthening **Machine Learning fundamentals** and real-world applications
 
-### 👨‍💻 Previous Work
 ### 🧑‍💻 Previous Work
 
 - 🏦📉 **Loan Prediction using Machine Learning** (Financial data analysis, feature engineering, and predictive modeling for loan approval decisions)
